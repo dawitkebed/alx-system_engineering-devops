@@ -1,1 +1,3 @@
- e #!/bin/bash\n chown betty hello
+ #!/bin/bash\n 
+chown betty hello
+
